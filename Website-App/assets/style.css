@@ -1,0 +1,64 @@
+
+
+
+
+
+.card-title {
+    font-size: 30px;
+}
+
+
+
+.card1 {
+    background-color: palevioletred;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    margin: 5px;
+    border-radius: 10px;
+    border-style: double;
+  height: 300px; 
+}
+
+.card2 {
+    background-color: rgb(110, 18, 153);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    margin: 5px;
+    border-radius: 10px;
+    border-style: double;
+    height: 300px; 
+}
+
+
+.card3 {
+    background-color: rgb(190, 143, 40);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    margin: 5px;
+    border-radius: 10px;
+    border-style: double;
+    height: 300px; 
+}
+
+.card4 {
+    background-color: rgb(9, 136, 62);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    margin: 5px;
+    border-radius: 10px;
+    border-style: double;
+    height: 300px; 
+}
+
+.button:focus {
+    background-color: lightgreen;
+}
+
+.form {
+    height: 20px;
+    width: 70px;
+}
